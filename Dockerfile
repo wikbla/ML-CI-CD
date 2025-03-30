@@ -1,6 +1,6 @@
 FROM python:3.9-slim
 
-WORKDIR /NTPD3
+WORKDIR /app
 
 COPY requirements.txt .
 
